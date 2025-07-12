@@ -1,3 +1,3 @@
-# ts-hh-template
+# chainlink ccip / functions btc-bridge for monad
 
-Typescript Hardhat template for CPUchain projects
+chainlink ccip / functions btc-bridge for monad
